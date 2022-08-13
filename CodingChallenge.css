@@ -1,0 +1,81 @@
+body{
+  font-family: Arial;
+  background-image: url("Background.jpg");
+  background-size: cover;
+  padding: 3% 20% 3% 20%;
+  line-height: 3px;
+}
+
+.BOX{
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  text-align: center;
+  padding: 5%;
+
+}
+
+#LogoImg{
+  width: auto;
+  height: auto;
+  max-width: 20%;
+  text-align: center;
+}
+
+#LogoText{
+  color: lime;
+  font-size: 130%;
+  font-weight: bold;
+  text-align: center;
+}
+
+button{
+  font-size: 50%;
+}
+
+.BUTTONS{
+  background-color: lime;
+  padding: 1%;
+  margin-bottom: 3%;
+}
+
+.SCOOTERS{
+  color: white;
+  text-align: left;
+  font-size: 60%;
+}
+
+h2{
+  display: inline-block;
+}
+
+h3{
+  font-weight: lighter;
+  line-height: 5px;
+  margin-top: 1%;
+}
+
+#BATTERY1{
+  background-color: #ffcc66;
+  border-radius: 4px;
+  width: 40%;
+  height: 20px;
+  margin-bottom: 3%;
+}
+
+#BATTERY2{
+  background-color: #33cc33;
+  border-radius: 4px;
+  width: 60%;
+  height: 20px;
+  margin-bottom: 3%;
+
+}
+
+#BATTERY3{
+  background-color: #ff4d4d;
+  border-radius: 4px;
+  width: 20%;
+  height: 20px;
+  margin-bottom: 3%;
+
+}
